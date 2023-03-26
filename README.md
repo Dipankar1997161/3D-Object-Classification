@@ -11,4 +11,7 @@
 
 ### Trimesh
 Trimesh is a pure Python (2.7-3.5+) library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis, in the style of the Polygon object in the Shapely library.
-#### Installation: pip install trimesh
+### Installation: pip install trimesh
+
+### Output 
+![plot_14](https://user-images.githubusercontent.com/85514219/227781818-c9484089-dac2-4fef-86f1-094c1a60a853.png)
